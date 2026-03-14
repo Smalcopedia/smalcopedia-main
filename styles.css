@@ -32,10 +32,88 @@ a:hover{text-decoration:underline}
 .site-footer{margin:24px 0 40px}
 .footer-inner{max-width:1100px;margin:0 auto;padding:0 16px;color:#666}
 
-/* Responsywność */
-@media (max-width:800px){
-  .page-wrap{grid-template-columns:1fr;}
-  .sidebar{order:2}
-  .content{order:1}
-  #searchInput{width:160px}
+/* Upewnij się, że .content ma tę właściwość, aby infobox nie wystawał dołem */
+.content {
+  background: #fff;
+  padding: 30px;
+  border: 1px solid #e6e6e6;
+  border-radius: 4px;
+  overflow: hidden; /* Czyści floaty wewnątrz kontenera */
+  position: relative;
+}
+
+/* Infobox - teraz sztywno trzyma się prawej strony wewnątrz .content */
+.infobox {
+  width: 280px;
+  background: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  padding: 8px;
+  float: right; /* To jest kluczowe */
+  margin: 0 0 20px 20px; /* Odstęp od tekstu z lewej i z dołu */
+  font-size: 0.88em;
+  line-height: 1.4;
+  box-sizing: border-box;
+}
+
+.infobox-title {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  background: #cedff2;
+  padding: 10px;
+  margin: -8px -8px 10px -8px; /* Idealne dopasowanie do brzegów infoboxu */
+  border-bottom: 1px solid #a2a9b1;
+}
+
+.infobox-image {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.infobox-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.infobox-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.infobox-table th {
+  text-align: left;
+  vertical-align: top;
+  width: 40%;
+  padding: 6px 4px;
+  border-top: 1px solid #a2a9b1;
+  background-color: #f2f2f2;
+}
+
+.infobox-table td {
+  padding: 6px 4px;
+  border-top: 1px solid #a2a9b1;
+}
+
+/* RESPONSYWNOŚĆ */
+
+/* Dla średnich ekranów (tablety) */
+@media (max-width: 900px) {
+  .page-wrap {
+    grid-template-columns: 1fr; /* Sidebar ląduje nad Contentem */
+  }
+}
+
+/* Dla telefonów */
+@media (max-width: 600px) {
+  .infobox {
+    float: none;      /* Przestaje płynąć */
+    width: 100%;      /* Zajmuje całą szerokość .content */
+    margin: 0 0 20px 0; /* Resetuje boczne marginesy */
+  }
+  
+  .content {
+    padding: 15px;    /* Mniejszy padding na mobile */
+  }
 }
