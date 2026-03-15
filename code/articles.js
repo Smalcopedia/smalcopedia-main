@@ -3,7 +3,7 @@
  * Dodaj tutaj nazwę pliku .html, aby był uwzględniany w losowaniu.
  */
 const articleList = [
-    'dropsie.html',
-    'sylwek.html',
-    'dywanzbarana.html'
+  "dropsie.html",
+  "sylwek.html",
+  "dywanzbarana.html",
 ];
