@@ -18,6 +18,12 @@ Podczas jednej z napraw w Monarchium, Sylwek przypadkowo uszkodził bojler, a na
 
 Sylwek jest ojcem Smalca oraz właścicielem psa rasy kundel o imieniu Drops. Pies ten stał się bohaterem lokalnych legend po uratowaniu rodziny Sylwka przed pożarem w 2005 roku. Drops została uhonorowana medalem za odwagę.
 
+### Kontrowersje
+
+#### Afera zdjęciowa
+
+Sylwek 17 dnia Lipca 2015 roku, wstawił swoje zdjęcie wraz Synem Smalcem na portalu społecznościowym Facebook. Nieoczekiwanie później zmienił to zdjęcie usuwając zn niego Smalca. Afera miała głośny rozgłos w całym województwie Śląskim. Sprawa zajęła się prokuratura w Dąbrowiej Górniczej, gdzie Sylwek został ukarany mandatem 500zł i 1 kostka smalcu.
+
 ## Nagrody i wyróżnienia
 
 - Medal za Zasługi dla Branży Spożywczej (2000)
