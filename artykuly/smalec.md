@@ -30,7 +30,7 @@ Wczesnym rankiem (17:00), smalec wstaje żeby zjeść talerz KFC w łóżku z so
 <li><a href="monika.html">Monika</a></li>
 <li><a href="siostra.html">Siostra Maksa</a></li>
 <li><a href="dropsie.html">Drops</a></li>
-<li><a href="kuzyn.html">Kuzyn Maksa</a></li>
+<li><a href="kuzynmaksa.html">Kuzyn Maksa</a></li>
 
 ---
 **Źródła:** Opowieści bohatera.
