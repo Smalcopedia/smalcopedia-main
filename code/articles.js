@@ -54,7 +54,7 @@ const articles = [
   },
   {
     title: "Kuzyn",
-    url: "kuzyn.html",
+    url: "kuzynmaksa.html",
     description: "Kuzyn maksa to popularna postać w mediach społecznościowych na platformie tiktok."
   },
 ];
