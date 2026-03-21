@@ -8,3 +8,6 @@ Kuzyn smalca wraz z smalcem zasłyneli przez swoje swietne filmy na platformie t
 
 ## Rozłam rodziny
 Kuzyna smalca denerwował fakt ze kazdy na niego mowil kolega smalca kazdego kto tak mowil wyzywal a nastepnie bił lecz to dalej nie pomagalo wrecz przeciwnie nasilalo sprawe. Sprawa została zakonczona taki ze kuzyn smalca poprostu przestał go uznawac za rodzine i z nim nie wychodzil oraz sie do niego nie przyznawał w taki sposob smalec dokonał rozłamu rodziny na 2 czesci.
+
+## Gangsterska strona kuzyna smalca
+Kuzyn smalca po rozpadzie ich przyjzni stał sie gangsterem czasami byl widywany na dworze jak chodził z swoim gangiem. Po roku 2023 nie dostajemy informacji na jego temat slad po nim zaginal.

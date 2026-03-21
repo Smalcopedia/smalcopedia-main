@@ -57,6 +57,11 @@ const articles = [
     url: "kuzynmaksa.html",
     description: "Kuzyn maksa to popularna postać w mediach społecznościowych na platformie tiktok."
   },
+   {
+    title: "Monitor Smakca",
+    url: "monitor.html",
+    description: "Monitor Smalca do pracy w NASA."
+  },
 ];
 
 // Zachowujemy kompatybilność wsteczną dla starszych skryptów (np. losowego artykułu)
